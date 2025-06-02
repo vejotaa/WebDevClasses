@@ -11,20 +11,20 @@
 ## Atividade 5
 
 ## Atividade 6
-### Repositório
+#### Repositório
 https://github.com/vejotaa/a6  
 
-### Vercel  
+#### Vercel  
 https://webdev2-rosy.vercel.app
 
 ## Atividade 7
 
 ## Atividade 8
-### API
+#### API
 https://github.com/vejotaa/ac8]  
 https://two36777-ac8-webdevnoite.onrender.com/api/time
 
-### Front-End
+#### Front-End
 https://github.com/vejotaa/a8_frontend  
 https://frontend-henna-sigma-82.vercel.app/
 
