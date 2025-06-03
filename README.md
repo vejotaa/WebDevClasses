@@ -21,7 +21,7 @@ https://webdev2-rosy.vercel.app
 
 ## Atividade 8
 #### API
-https://github.com/vejotaa/ac8]  
+https://github.com/vejotaa/ac8  
 https://two36777-ac8-webdevnoite.onrender.com/api/time
 
 #### Front-End
@@ -29,14 +29,14 @@ https://github.com/vejotaa/a8_frontend
 https://frontend-henna-sigma-82.vercel.app/
 
 ## Atividade 9
-#### 1
+#### 1 - Clima e Local
 ##### Repositório
 https://github.com/vejotaa/atividade9.1/tree/main
 
 ##### Vercel:
 https://a9-frontend.vercel.app/
 
-#### 2
+#### 2 - Notas
 ##### Repositório
 https://github.com/vejotaa/atividade9.2
 
@@ -44,9 +44,9 @@ https://github.com/vejotaa/atividade9.2
 https://atividade9-2.vercel.app/
 
 ##### Render:
-https://atividade9-2.onrender.com/
+https://atividade9-2.onrender.com/notas
 
-#### 3
+#### 3 - Documentação de API
 ##### Postman:
 https://red-flare-2064452.postman.co/workspace/My-Workspace~56b562de-c124-4456-8a16-45a492d842a3/collection/44700354-bf568d6c-c6c6-4252-8084-44fe5a29527e?action=share&creator=44700354
 
