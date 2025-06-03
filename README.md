@@ -29,5 +29,18 @@ https://github.com/vejotaa/a8_frontend
 https://frontend-henna-sigma-82.vercel.app/
 
 ## Atividade 9
+#### 1
+##### Vercel:
+https://a9-frontend.vercel.app/
+
+#### 2
+##### Vercel:
+https://atividade9-2.vercel.app/
+##### Render:
+https://atividade9-2.onrender.com/
+
+#### 3
+##### Postman:
+https://red-flare-2064452.postman.co/workspace/My-Workspace~56b562de-c124-4456-8a16-45a492d842a3/collection/44700354-bf568d6c-c6c6-4252-8084-44fe5a29527e?action=share&creator=44700354
 
 ## Atividade 10
