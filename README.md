@@ -25,17 +25,24 @@ https://github.com/vejotaa/ac8]
 https://two36777-ac8-webdevnoite.onrender.com/api/time
 
 #### Front-End
-https://github.com/vejotaa/a8_frontend  
+https://github.com/vejotaa/a8_frontend 
 https://frontend-henna-sigma-82.vercel.app/
 
 ## Atividade 9
 #### 1
+##### Repositório
+https://github.com/vejotaa/atividade9.1/tree/main
+
 ##### Vercel:
 https://a9-frontend.vercel.app/
 
 #### 2
+##### Repositório
+https://github.com/vejotaa/atividade9.2
+
 ##### Vercel:
 https://atividade9-2.vercel.app/
+
 ##### Render:
 https://atividade9-2.onrender.com/
 
